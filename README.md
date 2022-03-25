@@ -1,5 +1,3 @@
-# Python cheat sheet
+# Scotch 3D Modelling
 
-FCC project 4
-
-This project is part of FreeCodeCamp and their first unit
+This project is for Scotch College and their STEM 3D printing service package
